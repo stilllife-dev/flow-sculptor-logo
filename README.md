@@ -22,7 +22,7 @@
 ---
 
 ## Demo
-https://stilllife-dev.github.io/fs-logo/
+https://stilllife-dev.github.io/flow-sculptor-logo/
 
 ---
 
